@@ -1,1 +1,1 @@
-I have edited this file. 
+Conflicting edit
