@@ -1,1 +1,2 @@
-This is a new edit1. 
+Conflicting edit
+
